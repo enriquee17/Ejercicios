@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE placasbaseejercicio SYSTEM "correo.dtd"> 
+<emails>
+	<email>
+		<para></para>
+		<cc></cc>
+		<cco></cco>
+		<asunto></asunto>
+		<cuerpo></cuerpo>
+		<adjunto>
+			<nombre></nombre>
+			<nimetype></nimetype>
+			<longitud></longitud>
+		</adjunto>	
+	</email>
+</emails>

@@ -1,0 +1,13 @@
+<!ELEMENT emails (email*)>
+<!ELEMENT email (para*, cc*, cco*, asunto, cuerpo, adjunto*)>
+
+<!ELEMENT para (#PCDATA)>
+<!ELEMENT cc (#PCDATA)>
+<!ELEMENT cco (#PCDATA)>
+<!ELEMENT asunto (#PCDATA)>
+<!ELEMENT cuerpo (#PCDATA)>
+<!ELEMENT adjunto (#PCDATA)>
+
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT nimetype (#PCDATA)>
+<!ELEMENT longitud (#PCDATA)>
