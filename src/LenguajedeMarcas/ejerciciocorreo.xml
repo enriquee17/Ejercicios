@@ -9,7 +9,7 @@
 		<cuerpo></cuerpo>
 		<adjunto>
 			<nombre></nombre>
-			<nimetype></nimetype>
+			<mimetype></mimetype>
 			<longitud></longitud>
 		</adjunto>	
 	</email>

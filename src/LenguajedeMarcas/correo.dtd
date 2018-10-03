@@ -6,8 +6,8 @@
 <!ELEMENT cco (#PCDATA)>
 <!ELEMENT asunto (#PCDATA)>
 <!ELEMENT cuerpo (#PCDATA)>
-<!ELEMENT adjunto (#PCDATA)>
+<!ELEMENT adjunto (nombre, mimetype, longitud)>
 
 <!ELEMENT nombre (#PCDATA)>
-<!ELEMENT nimetype (#PCDATA)>
+<!ELEMENT mimetype (#PCDATA)>
 <!ELEMENT longitud (#PCDATA)>
