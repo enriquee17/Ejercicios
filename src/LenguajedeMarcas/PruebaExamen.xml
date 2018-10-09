@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE coches [
+<!ELEMENT coches (coche)>
+<!ELEMENT coche (marca*)>
+<!ELEMENT marca (año*, modelo, motor, color)>
+<!ELEMENT año (#PCDATA)>
+<!ELEMENT modelo (#PCDATA)>
+<!ELEMENT motor (#PCDATA)>
+<!ELEMENT color (#PCDATA)>
+]>
+
+<coches>
+	<coche>
+		<marca>
+			<año></año>
+			<modelo></modelo>
+			<motor></motor>
+			<color></color>
+		</marca>
+		<marca>
+			<año></año>
+			<modelo></modelo>
+			<motor></motor>
+			<color></color>
+		</marca>
+	</coche>
+</coches>

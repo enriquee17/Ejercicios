@@ -9,7 +9,7 @@ public class Mediadeunacantidaddenumeros {
 		
 		int cantidadnumeros= 0;
 		int suma=0;
-		int media=0;
+		
 		cantidadnumeros=Integer.parseInt(JOptionPane.showInputDialog("Introduzca la cantidad de numeros que desee "));
 		
 		for (int i = 0; i < cantidadnumeros; i++) {
