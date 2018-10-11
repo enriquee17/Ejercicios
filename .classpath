@@ -6,5 +6,7 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="Programacion"/>
+	<classpathentry kind="src" path="LMSGI"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
